@@ -292,3 +292,7 @@
     width: 100%;
 }
 
+.list {
+    list-style: none;
+    line-height: 1.5;
+}
