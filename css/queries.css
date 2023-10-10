@@ -104,6 +104,7 @@
     margin-top: 1.2rem;
   }
 
+
   .main-nav {
     background-color: rgba(255, 255, 255, 0.97);
     position: absolute;
@@ -150,6 +151,7 @@
 
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
 }
 
